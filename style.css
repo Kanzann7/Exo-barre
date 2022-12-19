@@ -1,0 +1,16 @@
+.barre {
+    width: 500px;
+    height: 30px;
+    background-color: white;
+    border: 5px grey solid;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    
+}
+
+p {
+    font-size: 20px;
+}
